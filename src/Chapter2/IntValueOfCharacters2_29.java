@@ -1,6 +1,6 @@
 package Chapter2;
 
-public class IntegerValueOfCharacters {
+public class IntValueOfCharacters2_29 {
 
     public static void main(String[] args){
 //      Ex 2.29

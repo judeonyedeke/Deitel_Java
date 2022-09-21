@@ -1,9 +1,9 @@
 package Chapter2;
 import java.util.Scanner;
-// Exercise 2.15
-public class SquareSumAndDiff {
 
-    public static void main(String[] args){
+public class SquareSumAndDiff2_15 {
+//        Exercise 2.15
+        public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter first integer: ");

@@ -1,4 +1,4 @@
-package Chapter2;
+package Chapter3;
 
 public class Clock {
 
@@ -46,7 +46,7 @@ public class Clock {
 
         public int displayTime(){
 
-        return hour, minute, second;
+        return hour + minute + second;
 
         }
 }

@@ -2,7 +2,7 @@ package Chapter2;
 
 import java.util.Scanner;
 
-public class DivisibleBy3 {
+public class DivisibleBy3_2_25 {
 
     public static void main(String[] args){
 

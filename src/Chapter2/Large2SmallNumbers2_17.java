@@ -1,8 +1,8 @@
 package Chapter2;
 
 import java.util.Scanner;
-
-public class Large2SmallNumbers {
+//      Exercise 2.17
+public class Large2SmallNumbers2_17 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
